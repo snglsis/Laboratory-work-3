@@ -2,4 +2,5 @@
 ## Мета роботи: набуття практичних навичок із проектування, реалізації, тестування та аналізу алгоритму сортування купою (Heapsort).
 Дано послідовність: 86, 36, 14, 50, 64, 21, 2, 83, 82
 
-<img width="621" height="201" alt="Screenshot 2025-10-19 at 21 27 49" src="https://github.com/user-attachments/assets/03486b4b-b012-421e-a7ee-78cfedcbdee3" />
+<img width="584" height="229" alt="Screenshot 2025-10-19 at 21 55 34" src="https://github.com/user-attachments/assets/daba74a0-f5fc-426f-b4c9-b7120b3b357d" />
+
